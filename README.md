@@ -5,3 +5,8 @@
 # 작업중
 
 * https://github.com/masteage/programmers_swift
+
+# 지켜 보는 이슈
+
+* https://github.com/facebook/facebook-ios-sdk/issues/1470
+* https://github.com/CocoaPods/CocoaPods/issues/9992
