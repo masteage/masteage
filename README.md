@@ -5,6 +5,8 @@
 # 작업중
 
 * https://github.com/masteage/programmers_swift
+* https://github.com/masteage/masteage.github.io
+   * blog 만드는중 : https://masteage.github.io/
 
 # 지켜 보는 이슈
 
