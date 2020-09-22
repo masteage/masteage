@@ -14,9 +14,15 @@
 # 지켜 보는 이슈
 
 * https://github.com/CocoaPods/CocoaPods/issues/9992
+   * https://github.com/masteage/CocoaPodsTestSample
+* https://github.com/CocoaPods/CocoaPods/issues/10080
+   * https://github.com/masteage/CocoaPodsTestSample/tree/bug/xcode_12
+   
+   
+# Test
 
-# test 01
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masteage)](https://github.com/anuraghazra/github-readme-stats)
+* **test 01**
+   * [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masteage)](https://github.com/anuraghazra/github-readme-stats)
 
-# test 02
-![masteage's github stats](https://github-readme-stats.vercel.app/api?username=masteage&show_icons=true&theme=radical)
+* **test 02**
+   * ![masteage's github stats](https://github-readme-stats.vercel.app/api?username=masteage&show_icons=true&theme=radical)
